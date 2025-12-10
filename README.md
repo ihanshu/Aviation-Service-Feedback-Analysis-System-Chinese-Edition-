@@ -1,4 +1,5 @@
 # Aviation Service Feedback Analysis System (Chinese Edition)
+这是一个中文版航空服务反馈分析系统，其初衷是作为一个Coursework
 
 ## Project Introduction
 
